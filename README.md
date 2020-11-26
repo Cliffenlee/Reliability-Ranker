@@ -7,6 +7,8 @@
 ### About: Java program which takes in a dataset of sellers and listing from e-commerce websites (Carousell) and sort them based on reliability ratings determined by seller guidelines.
 
 
+
+
  To run the application:
  1. In line 22 of src/Algorithm/EntityConstructor.java, select one file from the specify the path to the CSV file (relative to the root folder) for our algorithm to be run against
  2. In line 68 of src/Algorithm/HeapSort.java, specify the path where the generated rankings will be placed
